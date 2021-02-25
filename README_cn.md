@@ -2,14 +2,20 @@
 
 [English](README.md) | [中文版](README_cn.md)
 
-## 介绍
+##介绍
+涂鸦扫地机SDK是指在涂鸦IoTOS系统中针对基于Linux系统开发扫地机设备推出的软件开发包。提供标准C语言静态库头文件以及对应的说明文档。
 
-涂鸦扫地机 SDK，借助设备的联网能力，直接与涂鸦 IoT 平台，涂鸦 APP，建立通信链路并进行涂鸦标准数据交互的软件中间件，你可以用此SDK开发接入涂鸦云的扫地机产品。
+##下载中心
+###标准Linux版本
+- stable:4.3.0
+- version info: iot_release_note.txt
 
+##快速开始
+* **[涂鸦开发者平台创建产品](https://developer.tuya.com/cn/docs/iot/configure-in-platform/create-product/create-product?id=K914jp1ijtsfe)**获取PID信息 
+* **[如何获取UUID & AUTHKEY信息](https://github.com/tuya/tuya-iotos-embeded-sdk-multimedia/wiki/What-is-uuid-authkey)
 
-
-
-## 快速开始
+##DEMO
+**[Tuya演示代码](https://registry.code.tuya-inc.top/sweeping_robot/tuya_laser_robot)
 
 [开发手册]
 
